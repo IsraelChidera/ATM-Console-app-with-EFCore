@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\bin\Debug\net6.0\ATM-DAL.deps.json
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\bin\Debug\net6.0\ATM-DAL.runtimeconfig.json
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\bin\Debug\net6.0\ATM-DAL.dll
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\bin\Debug\net6.0\ATM-DAL.pdb
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.dll
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\refint\ATM-DAL.dll
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.pdb
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ATM-DAL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ATM-UI\ATM-DAL\obj\Debug\net6.0\ref\ATM-DAL.dll
